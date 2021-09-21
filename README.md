@@ -1,1 +1,1 @@
-#Zero_day!
+echo # Zero_day!
